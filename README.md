@@ -12,5 +12,5 @@ Dataset from [Kaggle](https://www.kaggle.com/datasets/thedevastator/airplane-cra
 - Case Statements
 - Common Table Expressions (CTE)
 - TEMP Tables ....amongst others
-
-## View code [Here](https://github.com/IfunanyaBee/Aviation-Accidents/blob/main/Aviation%20Accidents%20Queries.sql)
+## See the detailed article on [Medium](https://medium.com/@ifunanya306/my-very-first-sql-project-aviation-accidents-ac06a83cface)
+### View code [Here](https://github.com/IfunanyaBee/Aviation-Accidents/blob/main/Aviation%20Accidents%20Queries.sql)
